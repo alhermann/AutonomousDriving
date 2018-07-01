@@ -2729,7 +2729,7 @@
         </Transform>
       </Transform>
       <Transform DEF='Wheel_FL'  translation='0.9 0.65 0' scale='0.8 0.8 0.8' rotation='1 0 0 -1.5708'>
-        <Transform>
+        <Transform DEF='FL_Rot' >
           <ProtoInstance name='RWheelGeometry'>
           </ProtoInstance>
         </Transform>

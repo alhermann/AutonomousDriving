@@ -887,7 +887,7 @@
     </Transform>
   </Transform>
   <Transform DEF='Plane_005_TRANSFORM'  translation='-232.03 -0.01 -42.0086' scale='4.79304 23.9652 1' rotation='-0.584928 -0.573118 -0.57393 2.08433'>
-    <Transform DEF='Plane_005_ifs_TRANSFORM'  translation='-1e-06 0 -0' rotation='0 -0 0 0'>
+    <Transform DEF='Plane_005_ifs_TRANSFORM'  translation='-1e-06 0 -0.5' rotation='0 -0 0 0'>
       <Group DEF='group_ME_Plane' >
         <Shape>
           <Appearance>
